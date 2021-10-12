@@ -1,0 +1,22 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "A README generator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"node test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-noriega14/README_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris-noriega14/README_Generator/issues"
+  },
+  "homepage": "https://github.com/chris-noriega14/README_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
