@@ -15,10 +15,51 @@ const questions = [
         message: 'How would you describe your app?',
     },
     {
+        type: 'input',
+        name: 'installation',
+        message: 'Please require a detailed explanation on how to install your app',
+    },
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'Enter usage details',
+    },
+    {
+        type: 'input',
+        name: 'contributing',
+        message: 'Please require a detailed explanation on how to install your app',
+    },
+    {
+        type: 'input',
+        name: 'tests',
+        message: 'Please require a detailed explanation on how to install your app',
+    },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'Please require a detailed explanation on how to install your app',
+        choices: ['ICS', 'MIT', 'Mozilla', 'GPU3']
+    },
+    {
+        type: 'input',
+        name: 'github',
+        message: 'What is your GitHub username?',
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'What is your email address?',
+    },
+    {
         type: 'checkbox',
         message: 'What languages do you know?',
         name: 'stack',
         choices: ['HTML', 'CSS', 'JavaScript', 'MySQL'],
+    },
+    {
+        type: 'input',
+        name: 'questions',
+        message: 'If you have any questions, you can contact me at:',
     }
 ];
 
