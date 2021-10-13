@@ -2,6 +2,8 @@
 https://github.com/chris-noriega14/README_Generator
 
 # URL to Walkthrough Video:
+Note: This will automatically download the video, not display it in your browser.
+https://github.com/chris-noriega14/README_Generator/blob/main/walkthrough-video.mp4?raw=true
 
 ## Description of README Generator:
 

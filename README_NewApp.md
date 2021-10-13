@@ -1,6 +1,6 @@
 
 # Application Name
-Generator
+README Markdown File Generator
 ## Table of Contents
 [Description](#description)
 <br/>
@@ -20,23 +20,23 @@ Generator
 <br/>
 <br>
 ## Description 
-README Generator
+The README Markdown File Generator creates a unique README.md file based off of user inputs. A license badge as well as a Table of Contents is also displayed for the user.
 <br>
 ## Programming Languages
 HTML,CSS,JavaScript
 <br>
 ## Installation
-GitHub
+You can access the questions by saving the files from the GitHub repo listed in the README_ProjectDesc and running them in your computer. You also need to type in node index.js in the terminal and answer the questions that will be provided to you.
 ## Usage
-Test
+The user answers the provided questions in the terminal; the README file will be generated once the user responds to the final question.
 ## Contributing
-Me
+chris-noriega14
 ## Tests
-Test2
+I tested the application by running the terminal multiple times to check if the code worked. I also researched ways to generate a README file. From there, I customized the questions to cater to application creation.
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 ## Contact
-GitHub Username: Test3
-Email Address: Email
+GitHub Username: chris-noriega14
+Email Address: Email-Test
 ## Questions
-Email
+Contact Information in GitHub account
