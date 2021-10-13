@@ -27,18 +27,18 @@ const questions = [
     {
         type: 'input',
         name: 'contributing',
-        message: 'Please require a detailed explanation on how to install your app',
+        message: 'Who were the contributors to this project?',
     },
     {
         type: 'input',
         name: 'tests',
-        message: 'Please require a detailed explanation on how to install your app',
+        message: 'What is the test process for the project?',
     },
     {
         type: 'list',
         name: 'license',
-        message: 'Please require a detailed explanation on how to install your app',
-        choices: ['ICS', 'MIT', 'Mozilla', 'GPU3']
+        message: 'What licenses are used for this project?',
+        choices: ['ICS', 'MIT', 'Mozilla', 'GNU3']
     },
     {
         type: 'input',
@@ -52,7 +52,7 @@ const questions = [
     },
     {
         type: 'checkbox',
-        message: 'What languages do you know?',
+        message: 'What programming languages do you know?',
         name: 'stack',
         choices: ['HTML', 'CSS', 'JavaScript', 'MySQL'],
     },
