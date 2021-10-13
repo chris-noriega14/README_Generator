@@ -23,7 +23,7 @@ Generator
 README Generator
 <br>
 ## Programming Languages
-HTML,CSS,JavaScript,MySQL
+HTML,CSS,JavaScript
 <br>
 ## Installation
 GitHub
@@ -36,7 +36,7 @@ Test2
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contact
-GitHub Username: Chris
+GitHub Username: Test3
 Email Address: Email
 ## Questions
 Email
