@@ -1,6 +1,6 @@
 
 # Application Name
-asdf
+Generator
 ## Table of Contents
 [Description](#description)
 <br/>
@@ -20,23 +20,23 @@ asdf
 <br/>
 <br>
 ## Description 
-asdf
+README Generator
 <br>
 ## Programming Languages
 HTML,CSS,JavaScript,MySQL
 <br>
 ## Installation
-asf
+GitHub
 ## Usage
-asdf
+Test
 ## Contributing
-asdf
+Me
 ## Tests
-asdf
+Test2
 ## License
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contact
-GitHub Username: asdf
-Email Address: asdf
+GitHub Username: Chris
+Email Address: Email
 ## Questions
-asd
+Email
