@@ -38,7 +38,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'What licenses are used for this project?',
-        choices: ['ICS', 'MIT', 'Mozilla', 'GNU3']
+        choices: ['ISC', 'MIT', 'Mozilla', 'GNU3']
     },
     {
         type: 'input',
@@ -69,7 +69,7 @@ const questions = [
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then(function(response){
-        updateFile.writeFile("README_Gen.md",generateMarkdown(response),(err) =>
+        updateFile.writeFile("README_NewApp.md",generateMarkdown(response),(err) =>
         err ? console.log(err) : console.log('Success!'))
     });
 }

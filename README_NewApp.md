@@ -23,20 +23,20 @@ asdf
 asdf
 <br>
 ## Programming Languages
-HTML,CSS
+HTML,CSS,JavaScript,MySQL
 <br>
 ## Installation
-sdfsd
+asf
 ## Usage
 asdf
 ## Contributing
 asdf
 ## Tests
-asdfa
-## License
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-## Contact
-GitHub Username: asdfasdf
-Email Address: asdfadf
-## Questions
 asdf
+## License
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+## Contact
+GitHub Username: asdf
+Email Address: asdf
+## Questions
+asd
