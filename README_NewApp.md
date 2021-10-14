@@ -1,5 +1,5 @@
 
-# asdfasdfasd
+# README Markdown File Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br>
 ## Table of Contents
@@ -21,25 +21,25 @@
 <br/>
 <br>
 ## Description 
-sdfsdf
+This application generates a README_NewApp.md file based off of user responses of questions given in the command line. The README file also contains a Table of Contents and a License Badge associated with the License that was associated with the application.
 <br>
 ## Programming Languages
-HTML,CSS
+HTML,CSS,JavaScript
 <br>
 ## Installation
-asdfasdfasd
+Go to the GitHub repository in the README_ProjectDesc.md file and clone the repository to your local computer. Go to Git Bash and type node index.js once Git is pointing to the folder the files are contained in.
 ## Usage
-sdfsfsdf
+The user inputs "node index.js" and answers a series of questions in the Git Bash command line.
 ## Contributing
-sdasdfs
+chris-noriega14
 ## Tests
-sdfsdfsdf
+I created various console.log lines of code in order to test the code at various points in time. I also researched the Markdown file setup and license badge setup.
 ## License
 This application is licensed by MIT. URL Link:(https://opensource.org/licenses/MIT)
 <br>
 ## Contact
-GitHub: asdfsdfasdf
+GitHub: chris-noriega14
 <br>
-Email: sdfsdfsf
+Email: Email
 ## Questions
-fffff
+GitHub URL: My account page displays my preferred methods of contact.
