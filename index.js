@@ -38,11 +38,11 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'What licenses are used for this project?',
-        choices: ['ISC', 'MIT', 'Mozilla', 'GNU3']
+        choices: ['ISC', 'MIT', 'Mozilla', 'GNU3','No License']
     },
     {
         type: 'input',
-        name: 'github',
+        name: 'contact',
         message: 'What is your GitHub username?',
     },
     {
@@ -59,7 +59,7 @@ const questions = [
     {
         type: 'input',
         name: 'questions',
-        message: 'If you have any questions, you can contact me at:',
+        message: 'If you have any questions, you can use the following methods of contact:',
     }
 ];
 
